@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hbomax-react/static/css/main.8b6ce439.css",
+    "main.js": "/hbomax-react/static/js/main.b70ab9e5.js",
+    "index.html": "/hbomax-react/index.html",
+    "main.8b6ce439.css.map": "/hbomax-react/static/css/main.8b6ce439.css.map",
+    "main.b70ab9e5.js.map": "/hbomax-react/static/js/main.b70ab9e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b6ce439.css",
+    "static/js/main.b70ab9e5.js"
+  ]
+}
