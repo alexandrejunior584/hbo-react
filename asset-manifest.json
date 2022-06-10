@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hbo-react/static/css/main.8b6ce439.css",
-    "main.js": "/hbo-react/static/js/main.0aab155e.js",
-    "index.html": "/hbo-react/index.html",
-    "main.8b6ce439.css.map": "/hbo-react/static/css/main.8b6ce439.css.map",
-    "main.0aab155e.js.map": "/hbo-react/static/js/main.0aab155e.js.map"
+    "main.css": "/hbomax-react/static/css/main.8b6ce439.css",
+    "main.js": "/hbomax-react/static/js/main.daf0ee45.js",
+    "index.html": "/hbomax-react/index.html",
+    "main.8b6ce439.css.map": "/hbomax-react/static/css/main.8b6ce439.css.map",
+    "main.daf0ee45.js.map": "/hbomax-react/static/js/main.daf0ee45.js.map"
   },
   "entrypoints": [
     "static/css/main.8b6ce439.css",
-    "static/js/main.0aab155e.js"
+    "static/js/main.daf0ee45.js"
   ]
 }
